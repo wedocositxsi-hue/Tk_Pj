@@ -1,2 +1,2 @@
 console.log("Hi");
-console.log("Hello");
+console.log("yo i m tik ");
